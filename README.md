@@ -1,5 +1,5 @@
 
-# Payments App
+# CashFlow
 
 Welcome to the CashFlow! This project provides a secure platform for transferring money, managing user accounts, and viewing transaction details. It consists of both frontend and backend components.
 
@@ -38,7 +38,7 @@ The frontend includes several pages like Dashboard, Home, Signin, Signup, Send M
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/yourusername/payments-app.git
+   git clone https://github.com/yourusername/CashFlow.git
    cd payments-app
    ```
 
